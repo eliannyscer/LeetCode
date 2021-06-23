@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode code solutions for google inverview
+LeetCode solutions for google inverview
